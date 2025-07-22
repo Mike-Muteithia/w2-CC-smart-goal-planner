@@ -5,12 +5,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "server": "json-server --watch db.json --port 3001",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "next build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "next": "15.4.2",
