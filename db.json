@@ -1,0 +1,49 @@
+{
+  "goals": [
+    {
+      "id": "1",
+      "name": "Travel Fund",
+      "targetAmount": 5000,
+      "savedAmount": 1500,
+      "category": "Travel",
+      "deadline": "2025-12-31",
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "e0b7",
+      "name": "Emergency Fund",
+      "targetAmount": 10000,
+      "category": "Emergency",
+      "deadline": "2026-06-30",
+      "savedAmount": 4999,
+      "createdAt": "2"
+    },
+    {
+      "id": "ca6c",
+      "name": "New Laptop",
+      "targetAmount": 1500,
+      "category": "Electronics",
+      "deadline": "2025-12-12",
+      "savedAmount": 500,
+      "createdAt": "2"
+    },
+    {
+      "id": "5464",
+      "name": "Down Payment - House",
+      "targetAmount": 50000,
+      "category": "Real Estate",
+      "deadline": "2024-11-20",
+      "savedAmount": 0,
+      "createdAt": "2"
+    },
+    {
+      "id": "4e33",
+      "name": "Car Maintenance ",
+      "targetAmount": 800,
+      "category": "Vehicle",
+      "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2"
+    }
+  ]
+}
