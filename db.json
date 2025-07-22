@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Travel Fund",
-      "targetAmount": 5000,
+      "targetAmount": 5999,
       "savedAmount": 1500,
       "category": "Travel",
       "deadline": "2025-12-31",
@@ -42,6 +42,15 @@
       "targetAmount": 800,
       "category": "Vehicle",
       "deadline": "2025-07-25",
+      "savedAmount": 0,
+      "createdAt": "2"
+    },
+    {
+      "id": "4254",
+      "name": "Gym Equipment",
+      "targetAmount": 7000,
+      "category": "Gym",
+      "deadline": "2026-06-05",
       "savedAmount": 0,
       "createdAt": "2"
     }
