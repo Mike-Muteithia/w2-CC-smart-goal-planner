@@ -1,15 +1,13 @@
 {
-  "homepage": "https://Mike-Muteithia.github.io/w2-CC-smart-goal-planner",
   "name": "smart-goal-planner",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "server": "json-server --watch db.json --port 3001",
-    "build": "next build",
-    "deploy": "gh-pages -d out"
+    "server": "json-server --watch db.json --port 3001"
   },
   "dependencies": {
     "next": "15.4.2",
@@ -21,7 +19,6 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.4.2",
-    "gh-pages": "^6.3.0",
     "json-server": "^1.0.0-beta.3",
     "tailwindcss": "^4"
   }
